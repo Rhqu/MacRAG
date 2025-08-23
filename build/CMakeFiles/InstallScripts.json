@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/mantissa/cerebro/build/cmake_install.cmake",
+		"/Users/mantissa/cerebro/build/_deps/sqlitecpp-build/cmake_install.cmake",
+		"/Users/mantissa/cerebro/build/_deps/sqlitecpp-build/sqlite3/cmake_install.cmake",
+		"/Users/mantissa/cerebro/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/mantissa/cerebro/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/mantissa/cerebro/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
