@@ -1,0 +1,21 @@
+# ninja log v7
+0	13	1755966769027958930	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	23635194ea616c0c
+0	13	1755966769027958930	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	23635194ea616c0c
+13	1065	1755966770080197161	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2019688b2f485167
+13	1065	1755966770080197161	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2019688b2f485167
+1065	1079	1755966770093941296	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f43454fa39c65c3b
+1065	1079	1755966770093941296	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f43454fa39c65c3b
+1079	1091	1755966770106634677	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	6720af65d37f6e46
+1079	1091	1755966770106634677	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	6720af65d37f6e46
+1091	1104	1755966770119261099	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	1b48febca85aed60
+1091	1104	1755966770119261099	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	1b48febca85aed60
+1104	1118	1755966770133003692	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	559c0f5d96f605ae
+1104	1118	1755966770133003692	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	559c0f5d96f605ae
+1118	1131	1755966770146624827	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e8185c64dd2ac5bb
+1118	1131	1755966770146624827	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e8185c64dd2ac5bb
+1131	1143	1755966770158608996	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	6d4483fcc947183b
+1131	1143	1755966770158608996	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	6d4483fcc947183b
+1143	1165	1755966770179843701	CMakeFiles/googletest-populate-complete	7e7a4e484a6b00c
+1143	1165	1755966770179843701	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	7e7a4e484a6b00c
+1143	1165	1755966770179843701	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	7e7a4e484a6b00c
+1143	1165	1755966770179843701	/Users/mantissa/cerebro/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	7e7a4e484a6b00c

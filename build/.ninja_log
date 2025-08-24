@@ -1,0 +1,24 @@
+# ninja log v7
+6	476	1755966815536086555	_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Exception.cpp.o	364222b2f6cf7445
+7	723	1755966815536495473	_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Savepoint.cpp.o	7ec56c9a6bf08206
+5	759	1755966815535290635	_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Column.cpp.o	6a7abcb7f5aeb046
+9	811	1755966815538556064	CMakeFiles/cerebro.dir/src/main.cpp.o	e3009631de07dbdc
+5	814	1755966815534992218	_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Backup.cpp.o	1b6520367c842f68
+8	823	1755966815537470477	_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Transaction.cpp.o	3a417df2aa44439b
+6	837	1755966815535694845	_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Database.cpp.o	589f6c266ef8c76d
+11	862	1755966815541152699	CMakeFiles/cerebro.dir/src/Directory_Scan.cpp.o	6aad6286427c2191
+10	862	1755966815540109487	CMakeFiles/cerebro.dir/src/Create_Database.cpp.o	4f4d9af328778b2b
+481	908	1755966816011337459	CMakeFiles/cerebro.dir/src/Text_Extraction_Handler.cpp.o	1206a761eea05e6e
+7	913	1755966815537037684	_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Statement.cpp.o	609b355401470e5d
+8	1157	1755966815538037521	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	bd6147029d7a0dc3
+759	1184	1755966816289053874	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	54b3871e513833cc
+724	1230	1755966816254011743	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	581bda013034fd62
+4	1323	1755966815533589754	_deps/sqlitecpp-build/sqlite3/CMakeFiles/sqlite3.dir/sqlite3.c.o	c383984d0b86cb10
+1323	1376	1755966816853298987	_deps/sqlitecpp-build/sqlite3/libsqlite3.a	f6c5e8274d763fe1
+1376	1408	1755966816905749058	_deps/sqlitecpp-build/libSQLiteCpp.a	93efe93e64ae0c3e
+1408	1445	1755966816937787344	cerebro	61d2c0286c4613b
+5	1477	1755966815534554466	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	265021117fb14547
+1478	1514	1755966817007424397	lib/libgtest.a	38aefa2c5f83310
+1514	1544	1755966817043863158	lib/libgmock.a	cfd1235c984bcb0d
+1514	1544	1755966817044045409	lib/libgtest_main.a	2fc6f460164925a8
+1544	1571	1755966817074189647	lib/libgmock_main.a	ed294e13748ec368

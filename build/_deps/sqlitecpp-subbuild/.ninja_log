@@ -1,0 +1,21 @@
+# ninja log v7
+0	11	1755966760441867284	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-mkdir	a8faafab4e9cfdf3
+0	11	1755966760441867284	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-mkdir	a8faafab4e9cfdf3
+11	7691	1755966768122164580	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-download	552ab6aa5e09d799
+11	7691	1755966768122164580	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-download	552ab6aa5e09d799
+7691	7739	1755966768122984083	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-update	3f77c49328ddefe5
+7691	7739	1755966768122984083	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-update	3f77c49328ddefe5
+7739	7751	1755966768181897429	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-patch	b511d1cfa2eec448
+7739	7751	1755966768181897429	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-patch	b511d1cfa2eec448
+7751	7762	1755966768193646598	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-configure	2bb4200758fdf5db
+7751	7762	1755966768193646598	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-configure	2bb4200758fdf5db
+7763	7777	1755966768207682484	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-build	8e93f65eb1c3fe1d
+7763	7777	1755966768207682484	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-build	8e93f65eb1c3fe1d
+7777	7789	1755966768220428240	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-install	3224b22b5818e61e
+7777	7789	1755966768220428240	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-install	3224b22b5818e61e
+7789	7800	1755966768231484490	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-test	e95605ebbe1bed21
+7789	7800	1755966768231484490	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-test	e95605ebbe1bed21
+7800	7817	1755966768247729092	CMakeFiles/sqlitecpp-populate-complete	e5799d80d026aa5f
+7800	7817	1755966768247729092	sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-done	e5799d80d026aa5f
+7800	7817	1755966768247729092	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/CMakeFiles/sqlitecpp-populate-complete	e5799d80d026aa5f
+7800	7817	1755966768247729092	/Users/mantissa/cerebro/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-done	e5799d80d026aa5f

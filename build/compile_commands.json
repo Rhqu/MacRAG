@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/opt/homebrew/Cellar/poppler/25.08.0/include/poppler/cpp -I/opt/homebrew/Cellar/poppler/25.08.0/include/poppler -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3 -std=gnu++17 -arch arm64 -o CMakeFiles/cerebro.dir/src/main.cpp.o -c /Users/mantissa/cerebro/src/main.cpp",
+  "file": "/Users/mantissa/cerebro/src/main.cpp",
+  "output": "CMakeFiles/cerebro.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/opt/homebrew/Cellar/poppler/25.08.0/include/poppler/cpp -I/opt/homebrew/Cellar/poppler/25.08.0/include/poppler -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3 -std=gnu++17 -arch arm64 -o CMakeFiles/cerebro.dir/src/Create_Database.cpp.o -c /Users/mantissa/cerebro/src/Create_Database.cpp",
+  "file": "/Users/mantissa/cerebro/src/Create_Database.cpp",
+  "output": "CMakeFiles/cerebro.dir/src/Create_Database.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/opt/homebrew/Cellar/poppler/25.08.0/include/poppler/cpp -I/opt/homebrew/Cellar/poppler/25.08.0/include/poppler -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3 -std=gnu++17 -arch arm64 -o CMakeFiles/cerebro.dir/src/Directory_Scan.cpp.o -c /Users/mantissa/cerebro/src/Directory_Scan.cpp",
+  "file": "/Users/mantissa/cerebro/src/Directory_Scan.cpp",
+  "output": "CMakeFiles/cerebro.dir/src/Directory_Scan.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/opt/homebrew/Cellar/poppler/25.08.0/include/poppler/cpp -I/opt/homebrew/Cellar/poppler/25.08.0/include/poppler -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3 -std=gnu++17 -arch arm64 -o CMakeFiles/cerebro.dir/src/Text_Extraction_Handler.cpp.o -c /Users/mantissa/cerebro/src/Text_Extraction_Handler.cpp",
+  "file": "/Users/mantissa/cerebro/src/Text_Extraction_Handler.cpp",
+  "output": "CMakeFiles/cerebro.dir/src/Text_Extraction_Handler.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -std=gnu++17 -arch arm64 -fstack-protector -o _deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Backup.cpp.o -c /Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Backup.cpp",
+  "file": "/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Backup.cpp",
+  "output": "_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Backup.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -std=gnu++17 -arch arm64 -fstack-protector -o _deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Column.cpp.o -c /Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Column.cpp",
+  "file": "/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Column.cpp",
+  "output": "_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Column.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -std=gnu++17 -arch arm64 -fstack-protector -o _deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Database.cpp.o -c /Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Database.cpp",
+  "file": "/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Database.cpp",
+  "output": "_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Database.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -std=gnu++17 -arch arm64 -fstack-protector -o _deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Exception.cpp.o -c /Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Exception.cpp",
+  "file": "/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Exception.cpp",
+  "output": "_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Exception.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -std=gnu++17 -arch arm64 -fstack-protector -o _deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Savepoint.cpp.o -c /Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Savepoint.cpp",
+  "file": "/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Savepoint.cpp",
+  "output": "_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Savepoint.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -std=gnu++17 -arch arm64 -fstack-protector -o _deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Statement.cpp.o -c /Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Statement.cpp",
+  "file": "/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Statement.cpp",
+  "output": "_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Statement.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/include -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3  -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long -std=gnu++17 -arch arm64 -fstack-protector -o _deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Transaction.cpp.o -c /Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Transaction.cpp",
+  "file": "/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/src/Transaction.cpp",
+  "output": "_deps/sqlitecpp-build/CMakeFiles/SQLiteCpp.dir/src/Transaction.cpp.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/cc -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3  -arch arm64 -fstack-protector -o _deps/sqlitecpp-build/sqlite3/CMakeFiles/sqlite3.dir/sqlite3.c.o -c /Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3/sqlite3.c",
+  "file": "/Users/mantissa/cerebro/build/_deps/sqlitecpp-src/sqlite3/sqlite3.c",
+  "output": "_deps/sqlitecpp-build/sqlite3/CMakeFiles/sqlite3.dir/sqlite3.c.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -I/Users/mantissa/cerebro/build/_deps/googletest-src/googlemock/include -I/Users/mantissa/cerebro/build/_deps/googletest-src/googlemock -isystem /Users/mantissa/cerebro/build/_deps/googletest-src/googletest/include -isystem /Users/mantissa/cerebro/build/_deps/googletest-src/googletest -std=c++17 -arch arm64  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/mantissa/cerebro/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/mantissa/cerebro/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -isystem /Users/mantissa/cerebro/build/_deps/googletest-src/googlemock/include -isystem /Users/mantissa/cerebro/build/_deps/googletest-src/googlemock -isystem /Users/mantissa/cerebro/build/_deps/googletest-src/googletest/include -isystem /Users/mantissa/cerebro/build/_deps/googletest-src/googletest -std=c++17 -arch arm64  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/mantissa/cerebro/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/mantissa/cerebro/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -I/Users/mantissa/cerebro/build/_deps/googletest-src/googletest/include -I/Users/mantissa/cerebro/build/_deps/googletest-src/googletest -std=c++17 -arch arm64  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/mantissa/cerebro/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/mantissa/cerebro/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/mantissa/cerebro/build",
+  "command": "/usr/bin/c++ -isystem /Users/mantissa/cerebro/build/_deps/googletest-src/googletest/include -isystem /Users/mantissa/cerebro/build/_deps/googletest-src/googletest -std=c++17 -arch arm64  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/mantissa/cerebro/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/mantissa/cerebro/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]
